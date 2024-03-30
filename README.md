@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiegoVaRu
+- 👋 Hi, I’m Diego
 - 👀 I’m interested in web and videogames development
 - 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on ...
