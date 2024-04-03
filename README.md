@@ -1,4 +1,4 @@
-- Hi, I’m Diego
+- Hi, I’m @DiegoVaRu
 - I’m interested in software development
 - I’m currently learning .NET
 - Fun fact: burgers should be wider, not taller. 
