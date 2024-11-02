@@ -1,3 +1,2 @@
-- Hi, I’m @DiegoVaRu
-- I’m currently learning web development.
+- @DiegoVaRu
 - Focused on: NodeJS, React.
