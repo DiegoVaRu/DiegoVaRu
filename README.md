@@ -1,2 +1,2 @@
-- @DiegoVaRu
-- Focused on: NodeJS, React.
+- FullStack Dev
+- Focused on: NodeJS & React
