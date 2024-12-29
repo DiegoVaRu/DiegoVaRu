@@ -1,7 +1,7 @@
 # 🖐 About me
 - FullStack Dev
 - Focused on: NodeJS & React
-# 🌟 Projects I'm on
+# 🌟 Projects I'm On
 ## TuWeb:
-_Creation & hosting of websites for any business model_
+Creation & hosting of websites for any business model
 - 🌐 URL: https://tuweb.cu
