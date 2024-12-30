@@ -5,4 +5,4 @@
 ## TuWeb:
 Creation & hosting of websites for any business model
 - 🌐 URL: https://tuweb.cu
-- 📚 Repo: https://github.com/TuwebOrg/TuWeb
+- 📚 Repo: github.com/TuwebOrg/TuWeb
