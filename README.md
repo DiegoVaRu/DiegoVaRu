@@ -1,6 +1,6 @@
 # 🖐 About me
 - FullStack Dev
-- Focused on: NodeJS & React
+- Focused on: Astro 🚀
 # 🌟 Projects I'm On
 ## TuWeb:
 Creation & hosting of websites for any business model
